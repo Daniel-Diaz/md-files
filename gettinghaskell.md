@@ -1,7 +1,6 @@
 # Getting Haskell in Linux
 
 By _Haskell_ I mean _GHC_ and _cabal-install_.
-It should be similar in other platforms.
 
 ## Assumptions
 
