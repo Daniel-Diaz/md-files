@@ -19,8 +19,8 @@ Your Linux distribution includes the following commands:
 
 GHC can be downloaded from the [GHC site](http://www.haskell.org/ghc/download).
 Choose a version (you might want _current stable release_). Then choose
-a supported platform. Download and unpack as follows (replacing angle-bracketed
-names adequately for your case):
+a supported platform (probably _Linux (x86_64)_). Download and unpack as
+follows (replacing angle-bracketed names adequately for your case):
 
 * `wget <url to the desired GHC build>`
 * `tar jxvf <downloaded file name>`
