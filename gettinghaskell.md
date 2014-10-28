@@ -1,6 +1,7 @@
 # Getting Haskell in Linux
 
-By _Haskell_ I mean _GHC_ and _cabal-install_.
+By _Haskell_ I mean _GHC_ and _cabal-install_, not the
+[Haskell Platform](https://www.haskell.org/platform).
 
 ## Assumptions
 
