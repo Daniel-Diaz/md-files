@@ -31,7 +31,7 @@ follows (replacing angle-bracketed names adequately for your case):
 * `./configure`
 * `make install`
 
-### Checking instalation
+### Checking installation
 
 Check that GHC is installed with your desired version with:
 
