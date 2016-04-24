@@ -55,7 +55,7 @@ Choose a version (you might want the _latest_). Then download and unpack as foll
 
 First build cabal-install by running the `bootstrap.sh` script.
 
-* `cd <location of previously uncompressed ghc folder>`
+* `cd <location of previously uncompressed cabal source folder>`
 * `sh bootstrap.sh`
 
 This won't add the `cabal` program to your path. You have to manually add `~/.cabal/bin` to your `$PATH`
