@@ -1,5 +1,5 @@
 
-== Exercise 1
+## Exercise 1
 
 Define a type ``Alter a b`` with the following properties:
 
@@ -13,38 +13,38 @@ These properties must follow from the type definition, i.e.
 they must hold by construction. As usual, consider the first
 element to have index zero.
 
-== Exercise 2
+## Exercise 2
 
 What should be the type of a function that prepends an element
 to an ``Alter`` list? Define it once you have the type.
 
-== Exercise 3
+## Exercise 3
 
 What should be the type of a function that removes an element
 from the beginning of an ``Alter`` list? Define it once you
 have the type.
 
-== Exercise 4
+## Exercise 4
 
 How would you calculate the length of an ``Alter`` list?
 
-== Exercise 5
+## Exercise 5
 
 What should be the type of a function aimed to get the first
 element of an ``Alter`` list? Define it once you have the
 type.
 
-== Exercise 6
+## Exercise 6
 
 Write a function that builds two regular lists from an ``Alter``
 list. Once list containing the elements in even indices, and the
 other containing the elements in odd indices.
 
-== Exercise 7
+## Exercise 7
 
 Is it possible to define a reverse function for Alter? Justify your answer.
 
-== Kinds and type classes
+## Kinds and type classes
 
 In Haskell, just like every value belongs to a type, every type belongs to a kind.
 
@@ -113,14 +113,14 @@ instance Functor (Either e) where
   fmap f (Right x) = Right (f x)
 ```
 
-== Exercise 8
+## Exercise 8
 
 What is the type of ``fmap`` in the ``Functor`` instance for ``Either``?
 
-== Exercise 9
+## Exercise 9
 
 What is the kind of ``Alter``?
 
-== Exercise 10
+## Exercise 10
 
 Is it possible to define a ``Functor`` instance for ``Alter``?
