@@ -37,7 +37,7 @@ type.
 ## Exercise 6
 
 Write a function that builds two regular lists from an ``Alter``
-list. Once list containing the elements in even indices, and the
+list. One list containing the elements in even indices, and the
 other containing the elements in odd indices.
 
 ## Exercise 7
