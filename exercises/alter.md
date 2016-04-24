@@ -42,7 +42,7 @@ other containing the elements in odd indices.
 
 ## Exercise 7
 
-Is it possible to define a reverse function for Alter? Justify your answer.
+Is it possible to define a reverse function for ``Alter``? Justify your answer.
 
 ## Kinds and type classes
 
